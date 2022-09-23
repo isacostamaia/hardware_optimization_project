@@ -1,0 +1,17 @@
+.vscode/
+
+__pycache__/
+
+dist/
+build/
+env/
+.env/
+*.manifest
+*.spec
+
+tmp/
+
+.ipynb_checkpoints/
+*.ipynb
+
+settings_local.py

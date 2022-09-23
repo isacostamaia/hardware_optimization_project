@@ -1,0 +1,350 @@
+[
+    {
+        "machine": "ssdhwip001dsy",
+        "role": "preint_build",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "lin012dsy",
+        "role": "preint_build",
+        "os": "linux",
+        "level": "R424"
+    },
+    {
+        "machine": "ssdhwip002dsy",
+        "role": "prj_build",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip252dsy",
+        "role": "prj_build",
+        "os": "linux",
+        "level": "R424"
+    },
+    {
+        "machine": "dell1843dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip219dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip210dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip212dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip213dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip214dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip215dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip361dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip233dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip234dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip237dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip238dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip239dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip241dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "wip242dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R424"
+    },
+    {
+        "machine": "enowinb001dsy",
+        "role": "preint_build",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "lin001dsy",
+        "role": "preint_build",
+        "os": "linux",
+        "level": "R423"
+    },
+    {
+        "machine": "enowinb002dsy",
+        "role": "prj_build",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip304dsy",
+        "role": "prj_build",
+        "os": "linux",
+        "level": "R423"
+    },
+    {
+        "machine": "wip285dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip311dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip326dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip327dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip328dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip329dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip330dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip331dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip332dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip333dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip334dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip339dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip340dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip342dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "wip344dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R423"
+    },
+    {
+        "machine": "ssdhwip007dsy",
+        "role": "preint_build",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "wip324dsy",
+        "role": "preint_build",
+        "os": "linux",
+        "level": "R422"
+    },
+    {
+        "machine": "ssdhwip008dsy",
+        "role": "prj_build",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "wip218dsy",
+        "role": "prj_build",
+        "os": "linux",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3353dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3354dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3355dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3356dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3357dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3358dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3359dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3360dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3361dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3362dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3364dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3365dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3366dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3367dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3368dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    },
+    {
+        "machine": "dell3369dsy",
+        "role": "replay",
+        "os": "windows",
+        "level": "R422"
+    }
+]
